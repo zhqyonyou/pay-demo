@@ -6,4 +6,9 @@ package com.git.study;
  * @Author zhaoq
  **/
 public class GitClassTest {
+
+    public static void main(String[] args) {
+        System.out.println("xxxxx");
+    }
+
 }
