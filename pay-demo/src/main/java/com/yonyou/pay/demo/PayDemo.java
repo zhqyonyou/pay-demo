@@ -19,8 +19,8 @@ import com.yonyou.pay.demo.util.TestUtil;
  * TODO
  * 支付demo
  * 注意：以下代码均为demo，请根据具体业务参考，不要直接复制粘贴
- * 
- * @Author:zhaoq  
+ * xxx
+ * @Author:zhaoq
  * @version $id:PayDemo.java,v0.1 2019年1月25日 上午10:10:44 zhaoq Exp$
  */
 public class PayDemo {
